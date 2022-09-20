@@ -14,6 +14,7 @@ Design is pretty simple. Normally I'd use python but I used bash for fun. I use 
 ## Requirements
 - sqlite3
 - radare2 (follow their github installation commands...)
+- jq
 
 ## running
 - download the bash script, run `chmod +x bbhash_db.sh` to make it executable
